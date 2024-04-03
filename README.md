@@ -1,3 +1,2 @@
-# aind-capsule-template
+# AIND CNC SmartSPIM Workshop
 
-Basic structure of a capsule to be customized as needed.
